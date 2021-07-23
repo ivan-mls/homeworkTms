@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  dzLesson11
+//  Lesson11DZ
 //
-//  Created by User on 16.07.21.
+//  Created by User on 22.07.21.
 //
 
 import UIKit
